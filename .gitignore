@@ -3,3 +3,6 @@
 
 # JSON
 *.json
+
+# PDF generated
+asciidoc/*.pdf

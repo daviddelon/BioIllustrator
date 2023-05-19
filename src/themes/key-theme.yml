@@ -1,0 +1,13 @@
+extends: default
+base:
+  text-align: left
+  hyphens: true
+heading:
+  h1-font-size : 18
+  h2-font-size : 16
+  h3-font-size : 14
+  h4-font-size : 12
+  h5-font-size : 10
+  h6-font-size : 8
+table:
+  cell_padding: 2

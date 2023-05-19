@@ -1,0 +1,122 @@
+= Linum
+:imagesdir: ../images
+
+== Fleurs bleues
+
+[cols="2a,2a",frame=none, grid=none]
+|===
+|
+[cols="1a,1a",frame=none, grid=none]
+!===
+! image::Linum_narbonense_1.jpg["Linum narbonense",width="300mm",observation=161696824,image_index=0,callout_number="1",callout_x=239,callout_y=152]
+! image::Linum_narbonense_2.jpg["Linum narbonense",width="300mm",observation=161696812,image_index=1,callout_number="2",callout_x=138,callout_y=152]
+!===
+|
+[cols="1a,1a",frame=none, grid=none]
+!===
+! image::Linum_bienne_1.jpg["Linum bienne",width="300mm",observation=162371058,image_index=0]
+! image::Linum_bienne_2.jpg["Linum bienne",width="300mm",observation=162371058,image_index=1,callout_number="1",callout_x=165,callout_y=136]
+!===
+| _Linum narbonense_ : vivace à tige dressées de 30 à 60 cm de haut, stigmate allongé (1), bractées souvent à marge scarieuse (2)
+| _Linum usitatissimum subsp. angustifolium (=L. bienne)_  : bisannuelle, pétales bleu pâle, bractées herbacées (1)
+|===
+
+
+[comment]
+--
++ Austriacum
++ Leonii mention
++ usitatissum
+--
+
+== Fleurs jaunes
+=== Fleurs < 1 cm
+
+[cols="2a,2a",frame=none, grid=none]
+|===
+|
+[cols="1a,1a",frame=none, grid=none]
+!===
+! image::Linum_strictum_1.jpg["Linum strictum",width="300mm",observation=161696798,image_index=0]
+! image::Linum_strictum_2.jpg["Linum strictum",width="300mm",observation=83308829,image_index=0,callout_number="1",callout_x=230,callout_y=263]
+!===
+| 
+[cols="1a,1a",frame=none, grid=none]
+!===
+! image::Linum_trigynum_1.jpg["Linum trigynum",width="300mm",observation=120867126,image_index=0]
+! image::Linum_trigynum_2.jpg["Linum trigynum",width="300mm",observation=120462262,image_index=1]
+!===
+| _Linum strictum_ : annuelle, dressée et rigide, feuilles rudes sur les bords (1)
+| _Linum trigynum_ : annuelle, grêle, feuilles à marges lisses 
+|===
+
+=== Fleurs plus grande
+
+[cols="2a,2a",frame=none, grid=none]
+|===
+|
+[cols="1a,1a",frame=none, grid=none]
+!===
+! image::Linum_campanulatum_1.jpg["Linum campanulatum",width="300mm",observation=117354360,image_index=0]
+! image::Linum_campanulatum_2.jpg["Linum catharticum",width="300mm",observation=161468032,image_index=0,callout_number="1",callout_x=73,callout_y=138]
+!===
+| 
+| _Linum campanulatum_ : vivace, à feuilles glauques, glandes (1) à l'insertion des feuilles caulinaires
+| 
+|===
+
+
+== Fleurs blanches
+
+=== Fleurs < 1 cm
+
+[cols="2a,2a",frame=none, grid=none]
+|===
+|
+[cols="1a,1a",frame=none, grid=none]
+!===
+! image::Linum_catharticum_1.jpg["Linum catharticum",width="300mm",observation=117919812,image_index=0]
+! image::Linum_catharticum_2.jpg["Linum catharticum",width="300mm",observation=117919812,image_index=2]
+!===
+| 
+[cols="1a,1a",frame=none, grid=none]
+| _Linum catharticum_ : annuelle, à feuilles opposées et fleurs peu visibles
+| 
+|===
+
+
+=== Fleurs plus grandes
+
+
+[cols="2a,2a",frame=none, grid=none]
+|===
+|
+[cols="1a,1a",frame=none, grid=none]
+!===
+! image::Linum_appressum_appressum_1.jpg["Linum appressum ssp. appressum",width="300mm",observation=161468038,image_index=2]
+! image::Linum_appressum_appressum_2.jpg["Linum appressum ssp. appressum",width="300mm",observation=161696793,image_index=1]
+!===
+| 
+[cols="1a,1a",frame=none, grid=none]
+!===
+! image::Linum_tenuifolium.jpg["Linum tenuifolium",width="300mm",observation=83705616,image_index=0]
+!
+!===
+| _Linum appressum ssp. appressum_ : vivace, pétales 3 à 4 fois le calice (1), rejets stériles (2)
+| _Linum tenuifolium_ : vivace, pétales 2 à 3 fois le calice, une seule nervure nette
+|===
+
+[comment]
+--
+Nodiflorum ? jaune ?
+
+Viscosum / alpes / rose
+
+Hirsutum / Marne / naturalise
+
+alpinum
+
+austriacum
+--
+
+

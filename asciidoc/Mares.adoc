@@ -1,0 +1,9 @@
+= Plantes des mares méditerannéennes
+:imagesdir: ../images
+
+
+[comment]
+Rosettes :
+gratiole / lithrium
+menthe des cerfs
+menthe classique

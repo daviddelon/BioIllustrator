@@ -1,0 +1,59 @@
+= Titre
+:imagesdir: ../images
+
+
+[comment]
+--
+Template et mode d'emploi pour générer un document :
+
+Pour chaque macro image (image::), renseigner :
+ - le numéro d'observation, paramètre observation, obtenu depuis Inaturalist,
+ - le rang de la photo à retenir pour cette observation, paramètre image_index
+  (commence à 0),
+ - Le nom de l'espèce, champ libre,
+ - le nom du fichier sous lequel sera sauvegardé la photo de Inaturalist, avec comme 
+ extenstion jpg, ce nom est libre
+
+Lancer le programme :
+cd src 
+python all.py ../asciidoc/nom_du_document.adoc all  (execute l'ensemble des 
+opérations : analyse du fichier asciidoc, téléchargement des photos, recadrage, mentions
+ et annotations, génération du PDF)
+
+Facultatif : utiliser le programme iview.html, depuis un navigateur, pour récupérer, lors
+d'un clic,les coordonnées de l'endroit à annoter. Ces coordonnées sont copiées dans le
+presse-papier, les coller ensuite dans les parametres de la macro image : callout_number,
+callout_x,callout_y
+
+Relancer le programme :
+python all.py ../asciidoc/nom_du_document.adoc all pour intégrer les annotations (les photos ne seront pas téléchargées à nouveau)
+--
+
+[comment]
+--
+Notes de travail
+--
+
+== Sous-titre
+
+=== Alternative 1
+
+[cols="2a,2a",frame=none, grid=none]
+|===
+|
+[cols="1a,1a",frame=none, grid=none]
+!===
+! image::Genre_espece_1.jpg["Genre espece",width="300mm",observation=1234,image_index=0]
+! image::Genre_espece_1.jpg["Genre espece",width="300mm",observation=1234,image_index=1,callout_number="1",callout_x=10,callout_y=10]
+!===
+|
+[cols="1a,1a",frame=none, grid=none]
+!===
+! image::Genre_autreespece_1.jpg["Genre autreespece",width="300mm",observation=5678,image_index=0,callout_number="1",callout_x=10,callout_y=10]
+! image::Genre_autreespece_2.jpg["Genre autreespece",width="300mm",observation=5678,image_index=0]
+!===
+| _Genre espece_ : description avec référence (1), suite de la description
+| _Genre autrespece_  : description avec référence (1), suite de la description
+|===
+
+=== Alternative 2

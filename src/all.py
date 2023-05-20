@@ -43,12 +43,12 @@ if script_name == "download_photo_from_inat.py" or script_name=="all":
         f.write(output3)
     print("Terminé.")
 
-# Quatrième script : crop_photo_and_add.mention.py
-if script_name == "crop_photo_and_add.mention.py" or script_name=="all":
+# Quatrième script : crop_photo_and_add_mention_or_callout.py
+if script_name == "crop_photo_and_add_mention_or_callout.py" or script_name=="all":
     with open("output3.json", "r") as f:
         output3 = f.read().strip()
-    cmd = ["python", "crop_photo_and_add.mention.py", output3]
-    print("Exécution de crop_photo_and_add.mention.py...")
+    cmd = ["python", "crop_photo_and_add_mention_or_callout.py", output3]
+    print("Exécution de crop_photo_and_add_mention_or_callout.py...")
     result = subprocess.run(cmd, stdout=subprocess.PIPE, universal_newlines=True)
     output4 = result.stdout.strip()
     with open("output4.json", "w") as f:

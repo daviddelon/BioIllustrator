@@ -93,18 +93,19 @@
 |
 [cols="1a,1a",frame=none, grid=none]
 !===
-! image::Linum_appressum_appressum_1.jpg["Linum appressum ssp. appressum",width="300mm",observation=161468038,image_index=2]
-! image::Linum_appressum_appressum_2.jpg["Linum appressum ssp. appressum",width="300mm",observation=161696793,image_index=1]
+! image::Linum_appressum_appressum_1.jpg["Linum appressum ssp. appressum",width="300mm",observation=161468038,image_index=2,callout_number="1",callout_x=163,callout_y=211]
+! image::Linum_appressum_appressum_2.jpg["Linum appressum ssp. appressum",width="300mm",observation=161696793,image_index=1,callout_number="2",callout_x=277,callout_y=179]
 !===
 | 
 [cols="1a,1a",frame=none, grid=none]
 !===
-! image::Linum_tenuifolium.jpg["Linum tenuifolium",width="300mm",observation=83705616,image_index=0]
-!
+! image::Linum_tenuifolium_1.jpg["Linum tenuifolium",width="300mm",observation=83705616,image_index=0,callout_number="1",callout_x=161,callout_y=126]
+! image::Linum_tenuifolium_2.jpg["Linum tenuifolium",width="300mm",observation=98972410,image_index=1]
 !===
 | _Linum appressum ssp. appressum_ : vivace, pétales 3 à 4 fois le calice (1), rejets stériles (2)
-| _Linum tenuifolium_ : vivace, pétales 2 à 3 fois le calice, une seule nervure nette
+| _Linum tenuifolium_ : vivace, pétales 2 à 3 fois le calice (1), une seule nervure nette
 |===
+
 
 [comment]
 --

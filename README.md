@@ -4,11 +4,11 @@ Illustration Fetcher from Inaturalist: Automating Image Collection for Species D
 
 ## Project Description
 
-This project aims to generate illustrated identification keys from an Asciidoc document, using photos sourced from the Inaturalist website.
+This project aims to generate determination keys, in PDF format, from an Asciidoc document, by automatically retrieving photos from the Inaturalist website based on their observation numbers.
 
 ## Description du Projet
 
-Ce projet a pour objectif de générer des clés de détermination illustrées à partir d'un document au format Asciidoc, en utilisant des photos provenant du site Inaturalist
+Ce projet a pour objectif de générer des clés de détermination, au format pdf, à partir d'un document au format Asciidoc, en récupérant automatiquement des photos provenant du site Inaturalist, depuis leur numéro d'observation.
 
 ### Exemple pour le genre Linum
 

@@ -1,9 +1,72 @@
-= Plantes des mares méditerannéennes
+= Plantes des mares méditerranéennes
 :imagesdir: ../images
 
-
 [comment]
+--
+Notes de travail
 Rosettes :
-gratiole / lithrium
+gratiole veronica
 menthe des cerfs
 menthe classique
+
+--
+
+== Bord de mare
+=== Vivaces (?) à feuilles sessiles et opposées : _Gratiola officinalis_ vs _Veronica anagallis-aquatica_
+
+
+[cols="2a,2a",frame=none, grid=none]
+|===
+|
+[cols="1a,1a",frame=none, grid=none]
+!===
+! image::Gratiola_officinalis_1.jpg["Gratiola officinalis",width="300mm",observation=162371035,image_index=2,callout_number="1",callout_x=103,callout_y=238]
+! image::Gratiola officinalis_2.jpg["Gratiola officinalis",width="300mm",observation=87776239,image_index=0]
+!===
+|
+[cols="1a,1a",frame=none, grid=none]
+!===
+! image::Veronica_anagallis-aquatica_1.jpg["Veronica anagallis-aquatica",width="300mm",observation=135776297,image_index=3,callout_number="1",callout_x=162,callout_y=254]
+! image::Veronica_anagallis-aquatica_2.jpg["Veronica anagallis-aquatica",width="300mm",observation=83675025,image_index=2]
+!===
+| _Gratiola officinalis_ : feuilles dentées en scie dans leurs moitiés supérieures (1)
+| _Veronica anagallis-aquatica_  : feuilles finement dentées, à nervures ramifiées (1)
+|===
+
+=== Alternative 2
+
+1- Calice à 4 dents et feuilles bractéales linéaires
+M. cervinia : du Cervin (ex Preslia cervinia).
+
+ Calice à 4 dents ; feuilles de l'inflorescence linéaires ; bractéoles palmatifides à palmatipartites . M. cervina L. [Preslia cervina (L.) Fresen]
+
+
+
+1- Calice à 5 dents et feuilles bractéales lancéolées arrondies
+
+2- Calice un peu zygomorphe
+
+Clef : Calice à 5 dents ; feuilles de l'inflorescence lancéolées, ovales ou orbiculaires ; bractéoles entières .
+
+
+
+M. pulegium (=vulgaris) : menthe pouliot. Fleurs roses, petites et poilues. Pas prostrée. Dans les champs humides et au bord des étangs.
+
+1 – M. cervina L. (= Preslia cervina (L.) Fresen) – V –
+Hydr. / (Hémi.) – 20-80 cm – Pl. glabre, robuste, en
+colonies denses ; tiges émergeant de l’eau dès le prin-
+temps, dressées ou ascendantes selon la profondeur,
+gén. ramifiées à leur partie sup. ; flles printanières lan-
+céolées gén. disparues à la flor., les estivales linéaires
+souvt munies de faisceaux feuillés axillaires ; inflor. ter-
+minale formée de qqs verticilles paraissant axillaires ;
+bractéoles palmatilobées ; cor. rose-lilas.
+
+
+
+2 – M. pulegium L. – pouliot – V – Hémi. – 10-50 cm – Pl. velue, grêle, en colonies plus ou
+moins lâches ; tiges florifères n’apparaissant qu’après exondation, dressées ou ascendantes, simples
+ou ramifiées, émettant normalt au collet de nombreux stolons aériens feuillés ; flles et bractées
+longues de 4 à 20 mm, à limbe rond ou ovale ; verticilles paraissant axillaires, gén. nombreux ;
+cor. rose-lilas.
+inflorescence pseudoverticillée à bractées foliacées

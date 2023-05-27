@@ -1,5 +1,23 @@
 = Linum
+////
+author: David Delon
+email: david.delon@clapas.net
+revnumber: v0.1
+revdate: 25.05.2023
+revremark: First draft
+////
 :imagesdir: ../images
+
+
+[comment]
+--
+ Austriacum
+ Leonii mention
+ usitatissum
+ voir : https://www.vogella.com/tutorials/AsciiDoc/article.html
+ajouter : version ,auteur, icone in line pour les numero annotations
+
+--
 
 == Fleurs bleues
 
@@ -17,17 +35,11 @@
 ! image::Linum_bienne_1.jpg["Linum bienne",width="300mm",observation=162371058,image_index=0]
 ! image::Linum_bienne_2.jpg["Linum bienne",width="300mm",observation=162371058,image_index=1,callout_number="1",callout_x=165,callout_y=136]
 !===
-| _Linum narbonense_ : vivace à tige dressées de 30 à 60 cm de haut, stigmate allongé (1), bractées souvent à marge scarieuse (2)
+| _Linum narbonense_ : vivace à tige dressées de 30 à 60 cm de haut, stigmates allongés (1), bractées souvent à marge scarieuse (2)
 | _Linum usitatissimum subsp. angustifolium (=L. bienne)_  : bisannuelle, pétales bleu pâle, bractées herbacées (1)
 |===
 
 
-[comment]
---
-+ Austriacum
-+ Leonii mention
-+ usitatissum
---
 
 == Fleurs jaunes
 === Fleurs < 1 cm
@@ -103,7 +115,7 @@
 ! image::Linum_tenuifolium_2.jpg["Linum tenuifolium",width="300mm",observation=98972410,image_index=1]
 !===
 | _Linum appressum ssp. appressum_ : vivace, pétales 3 à 4 fois le calice (1), rejets stériles (2)
-| _Linum tenuifolium_ : vivace, pétales 2 à 3 fois le calice (1), une seule nervure nette
+| _Linum tenuifolium_ : vivace, pétales 2 à 3 fois le calice (1), une seule nervure nette sur les sépales
 |===
 
 

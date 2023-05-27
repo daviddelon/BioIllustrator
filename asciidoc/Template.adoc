@@ -1,4 +1,11 @@
 = Titre
+////
+author: 
+email: 
+revnumber: v0.1
+revdate: 
+revremark: 
+////
 :imagesdir: ../images
 
 

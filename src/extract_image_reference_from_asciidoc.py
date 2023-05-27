@@ -24,22 +24,10 @@ if __name__ == '__main__':
                 image_index = match[3]
 
                 # Extraction des champs optionnels
-                callout_number = None
-                callout_x = None
-                callout_y = None
-
                 optionals = match[4]
-                callout_match = re.search(r'callout_number="([^"]+)"', optionals)
-                if callout_match:
-                    callout_number = callout_match.group(1)
-
-                callout_x_match = re.search(r'callout_x=(\d+)', optionals)
-                if callout_x_match:
-                    callout_x = callout_x_match.group(1)
-
-                callout_y_match = re.search(r'callout_y=(\d+)', optionals)
-                if callout_y_match:
-                    callout_y = callout_y_match.group(1)
+                callout_numbers = re.findall(r'callout_number="([^"]+)"', optionals)
+                callout_xs = re.findall(r'callout_x=(\d+)', optionals)
+                callout_ys = re.findall(r'callout_y=(\d+)', optionals)
 
                 # Construction de l'objet data
                 data = {
@@ -49,10 +37,12 @@ if __name__ == '__main__':
                     "image_index": image_index,
                 }
 
-                if callout_number != None:
-                    data["callout_number"] = callout_number
-                    data["callout_x"] = callout_x
-                    data["callout_y"] =  callout_y
+                if callout_numbers:
+                    data["callout_number"] = callout_numbers
+                if callout_xs:
+                    data["callout_x"] = callout_xs
+                if callout_ys:
+                    data["callout_y"] = callout_ys
 
                 data_list.append(data)
 

@@ -48,14 +48,19 @@ if __name__ == '__main__':
         text_y = img.height - text_size[1] - 5
         draw.text((text_x, text_y), text, font=font, fill=(255, 255, 255))
 
-        # Ajout de l'annotation (callout) si le champ callout_number est renseigné
-        callout_number = data.get('callout_number')
-        if callout_number is not None:
+        # Ajout des annotations (callouts) si les champs correspondants sont renseignés
+        callout_numbers = data.get('callout_number', [])
+        callout_xs = data.get('callout_x', [])
+        callout_ys = data.get('callout_y', [])
+
+        for i in range(len(callout_numbers)):
+            callout_number = callout_numbers[i]
+            callout_x = int(callout_xs[i]) if i < len(callout_xs) else 10
+            callout_y = int(callout_ys[i]) if i < len(callout_ys) else 10
+
             callout_value = str(callout_number)
 
             # Position et taille du cercle du callout
-            callout_x = int(data.get('callout_x', 10))
-            callout_y = int(data.get('callout_y', 10))
             circle_radius = 15
 
             # Dessin du cercle noir

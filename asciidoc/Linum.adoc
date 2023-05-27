@@ -14,9 +14,6 @@ revremark: First draft
  Austriacum
  Leonii mention
  usitatissum
- voir : https://www.vogella.com/tutorials/AsciiDoc/article.html
-ajouter : version ,auteur, icone in line pour les numero annotations
-
 --
 
 == Fleurs bleues
@@ -32,8 +29,8 @@ ajouter : version ,auteur, icone in line pour les numero annotations
 |
 [cols="1a,1a",frame=none, grid=none]
 !===
-! image::Linum_bienne_1.jpg["Linum bienne",width="300mm",observation=162371058,image_index=0]
-! image::Linum_bienne_2.jpg["Linum bienne",width="300mm",observation=162371058,image_index=1,callout_number="1",callout_x=165,callout_y=136]
+! image::Linum_bienne_1.jpg["Linum usitatissimum subsp. angustifolium",width="300mm",observation=162371058,image_index=0]
+! image::Linum_bienne_2.jpg["Linum usitatissimum subsp. angustifolium",width="300mm",observation=162371058,image_index=1,callout_number="1",callout_x=165,callout_y=136]
 !===
 | _Linum narbonense_ : vivace à tige dressées de 30 à 60 cm de haut, stigmates allongés (1), bractées souvent à marge scarieuse (2)
 | _Linum usitatissimum subsp. angustifolium (=L. bienne)_  : bisannuelle, pétales bleu pâle, bractées herbacées (1)
@@ -105,8 +102,8 @@ ajouter : version ,auteur, icone in line pour les numero annotations
 |
 [cols="1a,1a",frame=none, grid=none]
 !===
-! image::Linum_appressum_appressum_1.jpg["Linum appressum ssp. appressum",width="300mm",observation=161468038,image_index=2,callout_number="1",callout_x=163,callout_y=211]
-! image::Linum_appressum_appressum_2.jpg["Linum appressum ssp. appressum",width="300mm",observation=161696793,image_index=1,callout_number="2",callout_x=277,callout_y=179]
+! image::Linum_suffruticosum_appressum_1.jpg["Linum suffruticosum subsp. appressum, 1978",width="300mm",observation=161468038,image_index=2,callout_number="1",callout_x=163,callout_y=211]
+! image::Linum_suffruticosum_appressum_2.jpg["Linum suffruticosum subsp. appressum",width="300mm",observation=161696793,image_index=1,callout_number="2",callout_x=277,callout_y=179]
 !===
 | 
 [cols="1a,1a",frame=none, grid=none]
@@ -114,7 +111,7 @@ ajouter : version ,auteur, icone in line pour les numero annotations
 ! image::Linum_tenuifolium_1.jpg["Linum tenuifolium",width="300mm",observation=83705616,image_index=0,callout_number="1",callout_x=161,callout_y=126]
 ! image::Linum_tenuifolium_2.jpg["Linum tenuifolium",width="300mm",observation=98972410,image_index=1]
 !===
-| _Linum appressum ssp. appressum_ : vivace, pétales 3 à 4 fois le calice (1), rejets stériles (2)
+| _Linum suffruticosum subsp. appressum_ : vivace, pétales 3 à 4 fois le calice (1), rejets stériles (2)
 | _Linum tenuifolium_ : vivace, pétales 2 à 3 fois le calice (1), une seule nervure nette sur les sépales
 |===
 

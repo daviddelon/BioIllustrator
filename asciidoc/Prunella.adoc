@@ -1,10 +1,8 @@
 = Prunella
 ////
-author: 
-email: 
-revnumber: v0.1
-revdate: 
-revremark: 
+author: David Delon
+email: david.delon@clapas.net
+licence: CC-BY sauf mention différente 
 ////
 :imagesdir: ../images
 
@@ -58,20 +56,20 @@ Plantes toutes vivaces
 == Feuilles nervurées, fleurs blanches
 
 
-[cols="3a,1a",frame=none, grid=none]
+[cols="4a",frame=none, grid=none]
 |===
 |
-[cols="1a,1a,1a",frame=none, grid=none]
+[cols="1a,1a,1a,1a",frame=none, grid=none]
 !===
 ! image::Prunella_laciniata_1.jpg["Prunella laciniata ",width="300mm",observation=118044609,image_index=0,callout_number="1",callout_x=216,callout_y=201]
 ! image::Prunella_laciniata_2.jpg["Prunella laciniata ",width="300mm",observation=83833242,image_index=1,callout_number="2",callout_x=286,callout_y=198]
 ! image::Prunella_laciniata_3.jpg["Prunella laciniata ",width="300mm",observation=119845186,image_index=0,callout_number="3",callout_x=189,callout_y=134]
+! image::Prunella_laciniata_4.jpg["Prunella laciniata ",width="300mm",observation=164263968,image_index=1,callout_number="4",callout_x=195,callout_y=132]
 !===
 | 
-| _Prunella laciniata_ : tiges velues, feuilles découpées (1) mais il existe une forme (_P. laciniata f. subintegra_) à feuille entière (2), fleurs blanches (3)
+| _Prunella laciniata_ : feuilles découpées (1) mais il existe une forme (_P. laciniata f. subintegra_) à feuille entière (2), fleurs blanches (3), tiges fortement velues (4)
 | 
 |===
-
 
 == Feuilles nervurées, petites fleurs violettes
 

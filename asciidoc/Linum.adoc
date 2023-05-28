@@ -2,9 +2,7 @@
 ////
 author: David Delon
 email: david.delon@clapas.net
-revnumber: v0.1
-revdate: 25.05.2023
-revremark: First draft
+licence: CC-BY sauf mention différente
 ////
 :imagesdir: ../images
 
@@ -53,7 +51,7 @@ revremark: First draft
 [cols="1a,1a",frame=none, grid=none]
 !===
 ! image::Linum_trigynum_1.jpg["Linum trigynum",width="300mm",observation=120867126,image_index=0]
-! image::Linum_trigynum_2.jpg["Linum trigynum",width="300mm",observation=120462262,image_index=1]
+! image::Linum_trigynum_2.jpg["Linum trigynum",width="300mm",observation=164263967,image_index=1]
 !===
 | _Linum strictum_ : annuelle, dressée et rigide, feuilles rudes sur les bords (1)
 | _Linum trigynum_ : annuelle, grêle, feuilles à marges lisses 
@@ -108,8 +106,8 @@ revremark: First draft
 | 
 [cols="1a,1a",frame=none, grid=none]
 !===
-! image::Linum_tenuifolium_1.jpg["Linum tenuifolium",width="300mm",observation=83705616,image_index=0,callout_number="1",callout_x=161,callout_y=126]
-! image::Linum_tenuifolium_2.jpg["Linum tenuifolium",width="300mm",observation=98972410,image_index=1]
+! image::Linum_tenuifolium_1.jpg["Linum tenuifolium",width="300mm",observation=164274776,image_index=3,callout_number="1",callout_x=161,callout_y=126]
+! image::Linum_tenuifolium_2.jpg["Linum tenuifolium",width="300mm",observation=164274776,image_index=0]
 !===
 | _Linum suffruticosum subsp. appressum_ : vivace, pétales 3 à 4 fois le calice (1), rejets stériles (2)
 | _Linum tenuifolium_ : vivace, pétales 2 à 3 fois le calice (1), une seule nervure nette sur les sépales

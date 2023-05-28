@@ -1,4 +1,9 @@
 = Plantes des mares méditerranéennes
+////
+author: David Delon
+email: david.delon@clapas.net
+licence: CC-BY sauf mention différente
+////
 :imagesdir: ../images
 
 [comment]

@@ -100,7 +100,7 @@ licence: CC-BY sauf mention différente
 |
 [cols="1a,1a",frame=none, grid=none]
 !===
-! image::Linum_suffruticosum_appressum_1.jpg["Linum suffruticosum subsp. appressum, 1978",width="300mm",observation=161468038,image_index=2,callout_number="1",callout_x=163,callout_y=211]
+! image::Linum_suffruticosum_appressum_1.jpg["Linum suffruticosum subsp. appressum",width="300mm",observation=161468038,image_index=2,callout_number="1",callout_x=163,callout_y=211]
 ! image::Linum_suffruticosum_appressum_2.jpg["Linum suffruticosum subsp. appressum",width="300mm",observation=161696793,image_index=1,callout_number="2",callout_x=277,callout_y=179]
 !===
 | 

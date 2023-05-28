@@ -2,9 +2,7 @@
 ////
 author: 
 email: 
-revnumber: v0.1
-revdate: 
-revremark: 
+licence: CC-BY 
 ////
 :imagesdir: ../images
 

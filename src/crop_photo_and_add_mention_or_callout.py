@@ -17,11 +17,17 @@ if __name__ == '__main__':
         filename = '../images/' + data['filename'].replace('.jpg', '')
 
         input_file = filename + '_' + str(data['id']) + ".jpg"
-        cropped_file = input_file + "_cropped.jpg"
+        cropped_file = filename + "_cropped.jpg"
         cropped_with_attribution = filename + ".jpg"
 
-        width = data.get('width', 300)
-        height = width
+        image_input = Image.open(input_file)
+        width = image_input.width
+        height = image_input.height
+
+        if width > height:
+            height=width
+        else:
+            width=height
 
         subprocess.call(["smartcroppy", "--width=" + str(width), "--height=" + str(height), input_file, cropped_file])
 
@@ -42,7 +48,7 @@ if __name__ == '__main__':
         img = Image.open(cropped_file)
         draw = ImageDraw.Draw(img)
         text = author + ' ' + license_type
-        font = ImageFont.truetype("../font/LiberationSans-Regular.ttf", 12)
+        font = ImageFont.truetype("../font/LiberationSans-Regular.ttf", 56)
         text_size = draw.textsize(text, font=font)
         text_x = img.width - text_size[0] - 5
         text_y = img.height - text_size[1] - 5
@@ -61,7 +67,7 @@ if __name__ == '__main__':
             callout_value = str(callout_number)
 
             # Position et taille du cercle du callout
-            circle_radius = 15
+            circle_radius = 60
 
             # Dessin du cercle noir
             draw.ellipse([(callout_x - circle_radius, callout_y - circle_radius),
@@ -69,7 +75,7 @@ if __name__ == '__main__':
                          fill=(0, 0, 0))
 
             # Position et taille du texte du callout
-            callout_font = ImageFont.truetype("../font/LiberationSans-Bold.ttf", 14)
+            callout_font = ImageFont.truetype("../font/LiberationSans-Bold.ttf", 56)
             text_width, text_height = draw.textsize(callout_value, font=callout_font)
 
             # Calcul des coordonnées pour centrer le texte dans le cercle

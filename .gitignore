@@ -6,3 +6,5 @@
 
 # PDF generated
 asciidoc/*.pdf
+# HTML for callout position
+asciidoc/*.html
